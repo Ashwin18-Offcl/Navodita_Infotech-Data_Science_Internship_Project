@@ -278,9 +278,6 @@ Data-Science-Internship/
 ⭐ *Star this repo if you found it useful!*
 
 ````
-
----
-
 # 🔥 BONUS (IMPORTANT FOR YOU)
 
 ```
