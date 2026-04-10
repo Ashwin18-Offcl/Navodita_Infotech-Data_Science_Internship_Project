@@ -62,7 +62,7 @@ flowchart LR
 
 ## 💻 Programming Language
 
-* Python 🐍
+* Python 🐍 JupyterNoteBook Visual Studio Code
 
 ---
 
@@ -288,6 +288,8 @@ seaborn
 scikit-learn
 plotly
 streamlit
+Tensorflow
+SciKit
 ```
 
 
